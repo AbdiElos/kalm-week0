@@ -7,7 +7,7 @@ def add_custom_css():
         """
         <style>
         .css-1aumxhk {
-            background-color: #1f77b4; /* Sidebar color */
+            background-color: #FF6052; /* Sidebar color */
         }
         .stApp {
             background-color: #f0f2f5; /* Main background color */
